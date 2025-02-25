@@ -1,0 +1,17 @@
+C:\Users\aleja\source\repos\User-MS\UserMS.Infrastructure\bin\Debug\net8.0\UserMS.Infrastructure.deps.json
+C:\Users\aleja\source\repos\User-MS\UserMS.Infrastructure\bin\Debug\net8.0\UserMS.Infrastructure.runtimeconfig.json
+C:\Users\aleja\source\repos\User-MS\UserMS.Infrastructure\bin\Debug\net8.0\UserMS.Infrastructure.dll
+C:\Users\aleja\source\repos\User-MS\UserMS.Infrastructure\bin\Debug\net8.0\UserMS.Infrastructure.pdb
+C:\Users\aleja\source\repos\User-MS\UserMS.Infrastructure\bin\Debug\net8.0\UserMS.Domain.dll
+C:\Users\aleja\source\repos\User-MS\UserMS.Infrastructure\bin\Debug\net8.0\UserMS.Domain.pdb
+C:\Users\aleja\source\repos\User-MS\UserMS.Infrastructure\obj\Debug\net8.0\UserMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\aleja\source\repos\User-MS\UserMS.Infrastructure\obj\Debug\net8.0\UserMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\User-MS\UserMS.Infrastructure\obj\Debug\net8.0\UserMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\User-MS\UserMS.Infrastructure\obj\Debug\net8.0\UserMS.Infrastructure.AssemblyInfo.cs
+C:\Users\aleja\source\repos\User-MS\UserMS.Infrastructure\obj\Debug\net8.0\UserMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\User-MS\UserMS.Infrastructure\obj\Debug\net8.0\UserMS.I.866E9B51.Up2Date
+C:\Users\aleja\source\repos\User-MS\UserMS.Infrastructure\obj\Debug\net8.0\UserMS.Infrastructure.dll
+C:\Users\aleja\source\repos\User-MS\UserMS.Infrastructure\obj\Debug\net8.0\refint\UserMS.Infrastructure.dll
+C:\Users\aleja\source\repos\User-MS\UserMS.Infrastructure\obj\Debug\net8.0\UserMS.Infrastructure.pdb
+C:\Users\aleja\source\repos\User-MS\UserMS.Infrastructure\obj\Debug\net8.0\UserMS.Infrastructure.genruntimeconfig.cache
+C:\Users\aleja\source\repos\User-MS\UserMS.Infrastructure\obj\Debug\net8.0\ref\UserMS.Infrastructure.dll

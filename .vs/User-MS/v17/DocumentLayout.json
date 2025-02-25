@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleja\\source\\repos\\User-MS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BA1643-3C65-44BA-A006-A478B93F0DAF}|User-MS.Domain\\UserMS.Domain.csproj|c:\\users\\aleja\\source\\repos\\user-ms\\user-ms.domain\\userms.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8BA1643-3C65-44BA-A006-A478B93F0DAF}|User-MS.Domain\\UserMS.Domain.csproj|solutionrelative:user-ms.domain\\userms.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D19601-C557-4BD3-869D-32B38748020F}|User-MS.Api\\User-MS.Api.csproj|c:\\users\\aleja\\source\\repos\\user-ms\\user-ms.api\\user-ms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5D19601-C557-4BD3-869D-32B38748020F}|User-MS.Api\\User-MS.Api.csproj|solutionrelative:user-ms.api\\user-ms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D19601-C557-4BD3-869D-32B38748020F}|User-MS.Api\\User-MS.Api.csproj|c:\\users\\aleja\\source\\repos\\user-ms\\user-ms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D19601-C557-4BD3-869D-32B38748020F}|User-MS.Api\\User-MS.Api.csproj|solutionrelative:user-ms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4602DECF-0D39-4A2F-BFDF-E914A9FF42AE}|User-MS.Infrastructure\\User-MS.Infrastructure.csproj|c:\\users\\aleja\\source\\repos\\user-ms\\user-ms.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4602DECF-0D39-4A2F-BFDF-E914A9FF42AE}|User-MS.Infrastructure\\User-MS.Infrastructure.csproj|solutionrelative:user-ms.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D19601-C557-4BD3-869D-32B38748020F}|User-MS.Api\\User-MS.Api.csproj|c:\\users\\aleja\\source\\repos\\user-ms\\user-ms.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5D19601-C557-4BD3-869D-32B38748020F}|User-MS.Api\\User-MS.Api.csproj|solutionrelative:user-ms.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4602DECF-0D39-4A2F-BFDF-E914A9FF42AE}|User-MS.Infrastructure\\User-MS.Infrastructure.csproj|c:\\users\\aleja\\source\\repos\\user-ms\\user-ms.infrastructure\\context\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4602DECF-0D39-4A2F-BFDF-E914A9FF42AE}|User-MS.Infrastructure\\User-MS.Infrastructure.csproj|solutionrelative:user-ms.infrastructure\\context\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D19601-C557-4BD3-869D-32B38748020F}|User-MS.Api\\User-MS.Api.csproj|c:\\users\\aleja\\source\\repos\\user-ms\\user-ms.api\\user-ms.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C5D19601-C557-4BD3-869D-32B38748020F}|User-MS.Api\\User-MS.Api.csproj|solutionrelative:user-ms.api\\user-ms.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BA1643-3C65-44BA-A006-A478B93F0DAF}|User-MS.Domain\\User-MS.Domain.csproj|c:\\users\\aleja\\source\\repos\\user-ms\\user-ms.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8BA1643-3C65-44BA-A006-A478B93F0DAF}|User-MS.Domain\\User-MS.Domain.csproj|solutionrelative:user-ms.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D19601-C557-4BD3-869D-32B38748020F}|User-MS.Api\\User-MS.Api.csproj|c:\\users\\aleja\\source\\repos\\user-ms\\user-ms.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C5D19601-C557-4BD3-869D-32B38748020F}|User-MS.Api\\User-MS.Api.csproj|solutionrelative:user-ms.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BA1643-3C65-44BA-A006-A478B93F0DAF}|User-MS.Domain\\User-MS.Domain.csproj|c:\\users\\aleja\\source\\repos\\user-ms\\user-ms.domain\\repositories\\irespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8BA1643-3C65-44BA-A006-A478B93F0DAF}|User-MS.Domain\\User-MS.Domain.csproj|solutionrelative:user-ms.domain\\repositories\\irespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User-MS.Api",
+              "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Api\\User-MS.Api.csproj",
+              "RelativeDocumentMoniker": "User-MS.Api\\User-MS.Api.csproj",
+              "ToolTip": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Api\\User-MS.Api.csproj",
+              "RelativeToolTip": "User-MS.Api\\User-MS.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T00:00:23.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "User-MS.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "User-MS.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T00:00:37.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User-MS.Api",
+              "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Api\\User-MS.Api.csproj",
+              "RelativeDocumentMoniker": "User-MS.Api\\User-MS.Api.csproj",
+              "ToolTip": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Api\\User-MS.Api.csproj",
+              "RelativeToolTip": "User-MS.Api\\User-MS.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T00:00:35.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Api\\Program.cs",
+              "RelativeDocumentMoniker": "User-MS.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Api\\Program.cs",
+              "RelativeToolTip": "User-MS.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T23:43:06.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "User-MS.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "User-MS.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T23:36:12.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "User-MS.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Api\\Dockerfile",
+              "RelativeToolTip": "User-MS.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-26T22:05:47.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Infrastructure\\Context\\UserContext.cs",
+              "RelativeDocumentMoniker": "User-MS.Infrastructure\\Context\\UserContext.cs",
+              "ToolTip": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Infrastructure\\Context\\UserContext.cs",
+              "RelativeToolTip": "User-MS.Infrastructure\\Context\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:05:39.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRespository.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Domain\\Repositories\\IRespository.cs",
+              "RelativeDocumentMoniker": "User-MS.Domain\\Repositories\\IRespository.cs",
+              "ToolTip": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Domain\\Repositories\\IRespository.cs",
+              "RelativeToolTip": "User-MS.Domain\\Repositories\\IRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:04:17.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "User-MS.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "User-MS.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:02:05.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserMS.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Domain\\UserMS.Domain.csproj",
+              "RelativeDocumentMoniker": "User-MS.Domain\\UserMS.Domain.csproj",
+              "ToolTip": "C:\\Users\\aleja\\source\\repos\\User-MS\\User-MS.Domain\\UserMS.Domain.csproj",
+              "RelativeToolTip": "User-MS.Domain\\UserMS.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-26T22:01:39.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

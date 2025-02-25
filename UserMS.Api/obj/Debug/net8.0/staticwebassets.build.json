@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M73ZxD7LHQhMjQoGiE3/u5P6+5S7WfU/fKNZaBM4+Iw=",
+  "Source": "UserMS.Api",
+  "BasePath": "_content/UserMS.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

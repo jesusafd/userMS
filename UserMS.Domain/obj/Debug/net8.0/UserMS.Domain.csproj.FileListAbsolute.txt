@@ -1,0 +1,11 @@
+C:\Users\aleja\source\repos\User-MS\UserMS.Domain\bin\Debug\net8.0\UserMS.Domain.deps.json
+C:\Users\aleja\source\repos\User-MS\UserMS.Domain\bin\Debug\net8.0\UserMS.Domain.dll
+C:\Users\aleja\source\repos\User-MS\UserMS.Domain\bin\Debug\net8.0\UserMS.Domain.pdb
+C:\Users\aleja\source\repos\User-MS\UserMS.Domain\obj\Debug\net8.0\UserMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\User-MS\UserMS.Domain\obj\Debug\net8.0\UserMS.Domain.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\User-MS\UserMS.Domain\obj\Debug\net8.0\UserMS.Domain.AssemblyInfo.cs
+C:\Users\aleja\source\repos\User-MS\UserMS.Domain\obj\Debug\net8.0\UserMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\User-MS\UserMS.Domain\obj\Debug\net8.0\UserMS.Domain.dll
+C:\Users\aleja\source\repos\User-MS\UserMS.Domain\obj\Debug\net8.0\refint\UserMS.Domain.dll
+C:\Users\aleja\source\repos\User-MS\UserMS.Domain\obj\Debug\net8.0\UserMS.Domain.pdb
+C:\Users\aleja\source\repos\User-MS\UserMS.Domain\obj\Debug\net8.0\ref\UserMS.Domain.dll

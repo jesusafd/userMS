@@ -1,0 +1,15 @@
+C:\Users\aleja\source\repos\User-MS\UserMS.Application\bin\Debug\net8.0\UserMS.Application.deps.json
+C:\Users\aleja\source\repos\User-MS\UserMS.Application\bin\Debug\net8.0\UserMS.Application.dll
+C:\Users\aleja\source\repos\User-MS\UserMS.Application\bin\Debug\net8.0\UserMS.Application.pdb
+C:\Users\aleja\source\repos\User-MS\UserMS.Application\bin\Debug\net8.0\UserMS.Domain.dll
+C:\Users\aleja\source\repos\User-MS\UserMS.Application\bin\Debug\net8.0\UserMS.Domain.pdb
+C:\Users\aleja\source\repos\User-MS\UserMS.Application\obj\Debug\net8.0\UserMS.Application.csproj.AssemblyReference.cache
+C:\Users\aleja\source\repos\User-MS\UserMS.Application\obj\Debug\net8.0\UserMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\User-MS\UserMS.Application\obj\Debug\net8.0\UserMS.Application.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\User-MS\UserMS.Application\obj\Debug\net8.0\UserMS.Application.AssemblyInfo.cs
+C:\Users\aleja\source\repos\User-MS\UserMS.Application\obj\Debug\net8.0\UserMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\User-MS\UserMS.Application\obj\Debug\net8.0\UserMS.A.2A6B6B15.Up2Date
+C:\Users\aleja\source\repos\User-MS\UserMS.Application\obj\Debug\net8.0\UserMS.Application.dll
+C:\Users\aleja\source\repos\User-MS\UserMS.Application\obj\Debug\net8.0\refint\UserMS.Application.dll
+C:\Users\aleja\source\repos\User-MS\UserMS.Application\obj\Debug\net8.0\UserMS.Application.pdb
+C:\Users\aleja\source\repos\User-MS\UserMS.Application\obj\Debug\net8.0\ref\UserMS.Application.dll
